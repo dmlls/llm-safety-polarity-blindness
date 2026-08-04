@@ -59,7 +59,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--dataset-name",
         type=str,
-        default="AttaQ_sample1",
+        default="ForbiddenQuestions",
         help="Name of the dataset to negate.",
     )
     parser.add_argument(
