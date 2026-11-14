@@ -21,9 +21,9 @@ with and without an **adversarial wrapper**.
   <img
     src="/assets/img/prompt-variations-dark.svg"
     alt="Prompt variations"
-    class="h-110 w-auto rounded-lg base-100 hidden dark:block"
+    class="w-full sm:w-auto sm:h-110 rounded-lg hidden dark:block"
     />
-  <figcaption class="text-center">Flow diagram with the 8 prompt variations
+  <figcaption class="sm:text-center">Flow diagram with the 8 prompt variations
 we evaluate.</figcaption>
 </figure>
 
